@@ -17,5 +17,7 @@ namespace _4_задание
             Name = name;
         }
         }
+    public void DoSomething()
+            //здесь явно что то происходит
     }
 }
