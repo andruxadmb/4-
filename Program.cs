@@ -1,4 +1,5 @@
-﻿using System;
+﻿using _4_задание;
+using System;
 
 public class Test
 {
@@ -29,3 +30,5 @@ public class Test
         Console.WriteLine();
     }
 }
+var newvar = new NewClass1();
+newvar.Name = "";
